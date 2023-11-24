@@ -1,7 +1,5 @@
 海外看資源,https://haiwaikan.com/api.php/provide/vod/
 紅牛資源,https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/
-量子資源,https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/
-開放電影,https://vod-demo.onrender.com/pubdovod.php
 优质资源库,https://api.1080zyku.com/inc/api.php/provide/vod/
 39影視,https://www.39kan.com/api.php/provide/vod/
 天堂资源,http://vipmv.cc/api.php/provide/vod/
